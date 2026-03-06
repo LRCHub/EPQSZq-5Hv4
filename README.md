@@ -1,0 +1,46 @@
+# coldrain – CHASING SHADOWS
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+They say, "Believe"
+Stop asking questions and stay inside the lines
+But what if we were ment to dream
+Beyond the skies
+Can't we see eye to eye
+Not eye for eye?
+It's do or die, so open the door
+Chasing shadows in the dark
+Step by step, a tiny spark
+When our dreams align, we'll see beyond the
+night
+Chasing shadows in the dark
+They called it law and burned it all
+In fear of what we'd find
+But, no, they don't know, will never know
+That the truth survives in those who seek for
+more
+Can't we see eye to eye
+Not eye for eye?
+It's do or die, so open the door
+Chasing shadows in the dark
+Step by step, a tiny spark
+When our dreams align, we'll see beyond the
+night
+Chasing shadows in the dark
+The fire we built with lives
+Keeps burning unbound by time
+Their hollow and cruel minds
+May bring the rain
+But they'll never steal our flames
+Chasing shadows in the dark
+Step by step, a tiny spark
+絶望も希望も君のもの
+Chasing shadows in the dark
+Chasing shadows in the dark
+Step by step, a tiny spark
+展望、無謀も共に見よう
+Chasing shadows in the dark
+In the dark
+In the dark
+```
