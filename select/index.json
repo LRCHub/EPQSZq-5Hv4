@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "CHASING SHADOWS",
+  "base_artist": "coldrain",
+  "createdAt": "2026-03-06T15:00:26.103578Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chasing Shadows",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/01_Chasing_Shadows_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chasing Shadows",
+      "artist": "Santigold",
+      "has_synced": true,
+      "path": "select/02_Chasing_Shadows_Santigold.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chasing Shadows",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/03_Chasing_Shadows_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chasing Shadows",
+      "artist": "Angels & Airwaves",
+      "has_synced": true,
+      "path": "select/04_Chasing_Shadows_Angels_&_Airwaves.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chasing Shadows",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/05_Chasing_Shadows_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chasing Shadows",
+      "artist": "Uriah Heep",
+      "has_synced": true,
+      "path": "select/06_Chasing_Shadows_Uriah_Heep.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chasing Shadows",
+      "artist": "Alicia Witt",
+      "has_synced": false,
+      "path": "select/07_Chasing_Shadows_Alicia_Witt.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chasing Shadows",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/08_Chasing_Shadows_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chasing Shadows",
+      "artist": "Kansas",
+      "has_synced": true,
+      "path": "select/09_Chasing_Shadows_Kansas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chasing Shadows",
+      "artist": "Black Tide",
+      "has_synced": false,
+      "path": "select/10_Chasing_Shadows_Black_Tide.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chasing Shadows",
+      "artist": "Kansas",
+      "has_synced": false,
+      "path": "select/11_Chasing_Shadows_Kansas.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chasing Shadows",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/12_Chasing_Shadows_Stratovarius.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chasing Shadows",
+      "artist": "coldrain",
+      "has_synced": false,
+      "path": "select/pl_01_Chasing_Shadows_coldrain.txt"
+    }
+  ]
+}
